@@ -1,0 +1,171 @@
+Qualys BrowserCheck
+STOPDecrypter
+AuroraDecrypter
+FilesLockerDecrypter
+360 Total Security
+Skype Classic
+GPU-Z
+InsaneCrypt (desuCrypt) Decrypter
+GIBON Ransomware Decryptor
+Process Monitor (ProcMon)
+StrikedDecrypter
+DCryDecrypter
+Mole02 Decryptor
+UCheck
+BitKangarooDecrypter
+VIPRE Advance Security for Home
+BTCWareDecrypter
+USB Disk Storage Format Tool
+HP USB Disk Storage Format Tool
+StupidDecryptor
+RogueKillerCMD
+Offline CryptoMix Ransomware Decryptor
+RakhniDecryptor Ransomware Decryptor
+CryptoSearch
+CryptON Ransomware Decryptor
+PotPlayer
+Rainmeter Desktop Customization Tool
+Chrome Cleanup Tool
+Crypt38Decrypter
+BitStakDecrypter
+AlphaDecrypter
+Unlock92Decrypter
+Hidden Tear Decrypter
+Hidden Tear BruteForcer
+PowerLockyDecrypter
+GhostCryptDecrypter
+RansomNoteCleaner
+MicroCop Decryptor
+Jigsaw Decrypter
+Notepad++
+McAfee Real Protect
+McAfee Stinger
+WMI Explorer
+Symantec Kovter Removal Tool
+IObit Unlocker
+Sophos Home
+Malwarebytes Anti-Ransomware
+Free Clipboard Viewer
+Unchecky Beta
+FurMark
+ShadowExplorer
+Rem-VBSworm
+Panda USB Vaccine
+Reason Core Security
+VoodooShield
+Zemana AntiMalware
+MiniTool Power Data Recovery Free
+MiniTool Partition Wizard Free
+TrayIt!
+Tweaking.com Technicians Toolbox
+Delfix
+Heimdal Free
+Simple System Tweaker
+WinPatrol
+Glasswire
+Zemana AntiLogger Free
+GiveMePower
+Display Driver Uninstaller
+NetAdapter Repair All In One
+Envelope Printer
+ListCWall
+BlueScreenView
+VirtualBox for Windows
+Hardware Identify
+Emsisoft Anti-Malware
+SpeedFan
+Recuva
+Defraggler
+Speccy
+ESET Uninstaller
+Autoruns
+Malwarebytes Anti-Exploit
+HitmanPro
+Show Hidden
+Shortcut Cleaner
+bbEditor
+Registry Backup
+GetServices
+A Thousand Words
+HashTab
+Malwarebytes Anti-Rootkit
+Junkware Removal Tool
+KeyTweak
+AdwCleaner
+SecurityCheck
+RogueKiller
+Calibre
+HxD Hex Editor
+Everything
+Folder Size
+TreeSize Free
+Windows Repair (All In One)
+PC Decrapifier
+SUPERAntiSpyware
+Secunia Personal Software Inspector (PSI)
+BlitzBlank
+Emsisoft Emergency Kit
+CCleaner
+NTREGOPT
+ERUNT
+Kensington TrackballWorks
+OTL
+TFC
+ADS Spy
+HijackThis
+Hosts-perm.bat
+Process Explorer
+PhotoRec
+ListParts
+VT Hash Check
+TestDisk
+WinDirStat
+KatMouse
+WinMerge
+GrantPerms
+MiniToolBox
+Farbar Recovery Scan Tool
+Farbar Service Scanner
+Kaspersky Lab Products Remover
+Norman Uninstall Tool
+ZoneAlarm Uninstall Tool
+ThreatFire Removal Tool
+Panda Antivirus Uninstaller
+Microsoft OneCare Removal Tool
+7-Zip for Windows
+Microsoft Security Essentials Removal Tool
+Everything Desktop Search
+McAfee Consumer Products Removal tool
+Clementine for Windows
+Norton Removal Tool
+Revo Uninstaller
+AVCleaner 2012
+F-Secure Uninstallation Tool
+eScan Removal Tool
+Dr. Web Anti-Virus Remover
+Malwarebytes Anti-Malware Cleanup Tool
+BullGuard Uninstall
+BitDefender Uninstall Tool
+AVG Remover
+ComboFix
+Avast Software Uninstall Utility
+Resource Hacker
+Vba32 AntiRootkit
+McAfee Labs Rootkit Remover
+Panda Anti-Rootkit
+Sophos Virus Removal Tool
+Trend Micro RootkitBuster
+RootRepeal - Rootkit Detector
+RootkitRevealer
+TeamViewer
+PuTTY
+TCPView
+FixExec
+RKill
+DDS
+Unhide
+Defogger
+Malwarebytes Anti-Malware
+TDSSKiller
+GMER
+aswMBR
