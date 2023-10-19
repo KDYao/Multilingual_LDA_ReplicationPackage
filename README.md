@@ -92,8 +92,6 @@ An example of the input data should be like this:
 }
 ```
 
-This requires some code changes from Dr. Malton's generator. 
-
 The purpose of such reformatting is to make sure that at least 2 different languages are included in each post.
 
 The tokens in selected JSON files will be extracted and aggregated by post, then by language. The post-processed data will be stored in a pickle file, which will be used to create different corpuses for different LDA models.
@@ -115,8 +113,8 @@ python3 TermExtraction.py -i ../testdata/foobar_reformatted.json -o ../data/post
 ```
 
 <aside>
-💡 After discussion with Dr. Malton, we realize that maybe other semi-format material such as log, scripts, commands will be considered as different languages in the future work. Therefore, we make some changes to the code and now it should support multiple languages instead of just two (i.e., Log/Text).
 
+💡 This tool supports processing multiple languages instead of two (i.e., log data and natural language text) to extend compatibility in handling other semi-format material such as metrics, scripts, and commands in the future.
 </aside>
 
 ## Generate Corpus
